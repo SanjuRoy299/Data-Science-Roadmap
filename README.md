@@ -152,6 +152,13 @@ Each week is structured to cover multiple tech stacks, ensuring a well-rounded u
 4. **Portfolio:** Work on diverse projects and document your learnings.
 
 ---
+| 🔥 Important Course               | 📚 Resources & Links |
+|------------------------|---------------------|
+| **Full Stack Data Science Course**      | [Full Stack Data ScienceCourse](https://euron.one/course/full-stack-data-science?ref=7C9EDDAA) |
+| **Generative AI with NLP, Agentic AI and Fine Tuning**      | [Generative AI with NLP, Agentic AI and Fine Tuning](https://euron.one/course/generative-ai-with-nlp-agentic-ai-and-fine-tuning?ref=7C9EDDAA) |
+| **Data & Business Analytics Masters Course**      | [Data & Business Analytics Masters Course](https://euron.one/course/business-analytics-masters?ref=7C9EDDAA) |
+| **Data Science Architecture and Interview Bootcamp**      | [Data Science Architecture and Interview Bootcamp](https://euron.one/course/data-science-architecture-and-interview-bootcamp?ref=7C9EDDAA) |
+
 
 ## **Conclusion**
 By following this roadmap, you will gain a comprehensive understanding of data science concepts, build strong projects, and be well-prepared for job interviews.
